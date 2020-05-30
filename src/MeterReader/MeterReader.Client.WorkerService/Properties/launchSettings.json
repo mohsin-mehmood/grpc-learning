@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "MeterReader.Client.WorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
